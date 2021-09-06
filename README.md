@@ -1,2 +1,2 @@
 # picgo
-(ed2ff15cb58b1889af4406dd66e88ea61dd3db03)
+(ghp_TS28SYHZKaiouNIj1aQFjjTKbM8qAf2W2nUMp2)
